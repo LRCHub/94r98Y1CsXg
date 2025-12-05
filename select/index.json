@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "MOTTO!!!",
+  "base_artist": "MORE MORE JUMP!",
+  "createdAt": "2025-12-05T14:55:40.840862Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "My Motto",
+      "artist": "Jade Bird",
+      "has_synced": true,
+      "path": "select/01_My_Motto_Jade_Bird.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Motto",
+      "artist": "Pi’erre Bourne",
+      "has_synced": false,
+      "path": "select/02_Motto_Pi’erre_Bourne.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Motto",
+      "artist": "Tiësto",
+      "has_synced": true,
+      "path": "select/03_The_Motto_Tiësto.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Motto",
+      "artist": "Lil Wayne feat. Drake",
+      "has_synced": true,
+      "path": "select/04_The_Motto_Lil_Wayne_feat._Drake.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Motto",
+      "artist": "Drake, Lil Wayne",
+      "has_synced": true,
+      "path": "select/05_The_Motto_Drake,_Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Motto",
+      "artist": "Tiësto feat. Ava Max",
+      "has_synced": true,
+      "path": "select/06_The_Motto_Tiësto_feat._Ava_Max.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Motto",
+      "artist": "Tiësto/Ava Max",
+      "has_synced": true,
+      "path": "select/07_The_Motto_Tiësto_Ava_Max.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Motto",
+      "artist": "Less Than Jake",
+      "has_synced": true,
+      "path": "select/08_Motto_Less_Than_Jake.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Motto",
+      "artist": "David Guetta feat. Steve Aoki, Lil Uzi Vert, G-Eazy & Mally Mall",
+      "has_synced": true,
+      "path": "select/09_Motto_David_Guetta_feat._Steve_Aoki,_Lil_Uzi_Vert,_G-Eazy_&_Mally_Mall.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Motto",
+      "artist": "David Guetta & Steve Aoki feat. Lil Uzi Vert, G‐Eazy & Mally Mall",
+      "has_synced": true,
+      "path": "select/10_Motto_David_Guetta_&_Steve_Aoki_feat._Lil_Uzi_Vert,_G‐Eazy_&_Mally_Mall.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Motto",
+      "artist": "Drake feat. Lil Wayne",
+      "has_synced": true,
+      "path": "select/11_The_Motto_Drake_feat._Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Motto",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/12_The_Motto_Drake.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Motto (Mixed)",
+      "artist": "David Guetta feat. Lil Uzi Vert, G-Eazy & Mally Mall",
+      "has_synced": true,
+      "path": "select/13_Motto_(Mixed)_David_Guetta_feat._Lil_Uzi_Vert,_G-Eazy_&_Mally_Mall.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Motto",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/14_Motto_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Motto",
+      "artist": "David Guetta & Steve Aoki Feat. Lil Uzi Vert, G-Eazy & Mally Mall",
+      "has_synced": true,
+      "path": "select/15_Motto_David_Guetta_&_Steve_Aoki_Feat._Lil_Uzi_Vert,_G-Eazy_&_Mally_Mall.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Motto (feat. Lil Uzi Vert, G-Eazy & Mally Mall)",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/16_Motto_(feat._Lil_Uzi_Vert,_G-Eazy_&_Mally_Mall)_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Motto",
+      "artist": "Tiësto",
+      "has_synced": true,
+      "path": "select/17_The_Motto_Tiësto.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "The Motto (feat. Lil Wayne) [Bonus Track]",
+      "artist": "Drake feat. Lil Wayne",
+      "has_synced": true,
+      "path": "select/18_The_Motto_(feat._Lil_Wayne)_[Bonus_Track]_Drake_feat._Lil_Wayne.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "The Motto (Bonus Track) [feat. Lil Wayne]",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/19_The_Motto_(Bonus_Track)_[feat._Lil_Wayne]_Drake.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MOTTO!!!",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": false,
+      "path": "select/pl_01_MOTTO!!!_MORE_MORE_JUMP!.txt"
+    }
+  ]
+}
